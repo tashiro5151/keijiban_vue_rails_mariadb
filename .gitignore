@@ -1,0 +1,4 @@
+keijiban_nodejs/file/front/node_modules
+keijiban_nodejs/file/server/node_modules
+keijiban_mongodb/data/*
+!.gitkeep
